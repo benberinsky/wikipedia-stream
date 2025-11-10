@@ -1,0 +1,37 @@
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info
+dist
+build
+
+# Git
+.git
+.github
+.gitignore
+
+# Docker
+.dockerignore
+
+# Documentation
+*.md
+
+# System files
+.DS_Store
+
+# Project specific
+storage/
+Pipfile
+Pipfile.lock
+
+# Testing
+.pytest_cache
+.coverage
+htmlcov/
+*.test
+

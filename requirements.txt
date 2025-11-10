@@ -1,2 +1,4 @@
 quixstreams
 requests_sse
+redis
+confluent-kafka

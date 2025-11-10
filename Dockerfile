@@ -25,4 +25,4 @@ COPY . .
 WORKDIR "/app/${MAINAPPPATH}"
 
 # Define the container's startup command
-ENTRYPOINT ["python3", "stream.py"]
+ENTRYPOINT ["python3", "wikipedia-stream.py"]
